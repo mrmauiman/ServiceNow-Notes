@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "941deabdeaf99113",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9cb272fa159a014",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fundementals/Task Managment/Visual Task Board.md",
+            "mode": "source"
+          }
+        },
+        "group": "890802a57c8a529d"
+      },
+      {
+        "id": "05f08c8693dadd21",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fundementals/Task Managment/Visual Task Board.md",
+            "mode": "preview"
+          }
+        },
+        "group": "890802a57c8a529d"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7ecc5c3db9a61c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "254b4319abac9e0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa74094c3d64b748",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "65849139a3274e77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa15422777ab7377",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6093d51654c93f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8455cff345e7ebab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fundementals/Task Managment/Visual Task Board.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a9cb272fa159a014",
+  "lastOpenFiles": [
+    "Fundementals/Task Managment/Visual Task Board.md",
+    "Fundementals/Flows/Data.md",
+    "Fundementals/Lists and Filters/List Interface.md",
+    "Fundementals/Task Managment/Untitled.md",
+    "Fundementals/Task Managment/Assigning Tasks.md",
+    "Fundementals/Now Platform/Role-Based Access.md",
+    "Fundementals/Task Managment/Accessing Assigned Tasks.md",
+    "Fundementals/Task Managment/Task Collaboration.md",
+    "Fundementals/Now Platform/Now Platform.md",
+    "Fundementals/NowPlatform/Now Platform.md"
+  ]
+}

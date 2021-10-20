@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fundementals/Task Managment/Visual Task Board.md",
+            "file": "ServiceNow Development/Service Portal.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fundementals/Task Managment/Visual Task Board.md",
+            "file": "ServiceNow Development/Service Portal.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundementals/Task Managment/Visual Task Board.md",
+                "file": "ServiceNow Development/Service Portal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "a9cb272fa159a014",
   "lastOpenFiles": [
+    "ServiceNow Development/Service Portal.md",
+    "ServiceNow Development/Data Visualization.md",
+    "README.md",
     "Fundementals/Task Managment/Visual Task Board.md",
     "Fundementals/Flows/Data.md",
     "Fundementals/Lists and Filters/List Interface.md",
     "Fundementals/Task Managment/Untitled.md",
     "Fundementals/Task Managment/Assigning Tasks.md",
     "Fundementals/Now Platform/Role-Based Access.md",
-    "Fundementals/Task Managment/Accessing Assigned Tasks.md",
-    "Fundementals/Task Managment/Task Collaboration.md",
-    "Fundementals/Now Platform/Now Platform.md",
-    "Fundementals/NowPlatform/Now Platform.md"
+    "Fundementals/Task Managment/Accessing Assigned Tasks.md"
   ]
 }

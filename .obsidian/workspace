@@ -6,10 +6,11 @@
       {
         "id": "a9cb272fa159a014",
         "type": "leaf",
+        "dimension": 43.913043478260875,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ServiceNow Development/Service Portal.md",
+            "file": "Customer Service Management/Business Models.md",
             "mode": "source"
           }
         },
@@ -18,10 +19,11 @@
       {
         "id": "05f08c8693dadd21",
         "type": "leaf",
+        "dimension": 56.086956521739125,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ServiceNow Development/Service Portal.md",
+            "file": "Customer Service Management/Business Models.md",
             "mode": "preview"
           }
         },
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ServiceNow Development/Service Portal.md",
+                "file": "Customer Service Management/Business Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +103,8 @@
   },
   "active": "a9cb272fa159a014",
   "lastOpenFiles": [
+    "Customer Service Management/Business Models.md",
+    "Customer Service Management/CSM on the Now Platform.md",
     "ServiceNow Development/Service Portal.md",
     "ServiceNow Development/Data Visualization.md",
     "README.md",
@@ -108,8 +112,6 @@
     "Fundementals/Flows/Data.md",
     "Fundementals/Lists and Filters/List Interface.md",
     "Fundementals/Task Managment/Untitled.md",
-    "Fundementals/Task Managment/Assigning Tasks.md",
-    "Fundementals/Now Platform/Role-Based Access.md",
-    "Fundementals/Task Managment/Accessing Assigned Tasks.md"
+    "Fundementals/Task Managment/Assigning Tasks.md"
   ]
 }
